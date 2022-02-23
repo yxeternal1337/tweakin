@@ -1,0 +1,7 @@
+if game.Players.LocalPlayer.UserId == 114184274
+or game.Players.LocalPlayer.UserId == nigger
+then
+print('xfaa is ape')
+else
+game.Players.LocalPlayer:Kick('Xfaa is not ape')
+end
